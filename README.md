@@ -29,7 +29,7 @@ If you share a similar vision, please feel free to get in touch. I am eagerly lo
 </ul>
 <h3 align="left" id="portfolioProjects">Portfolio Projects</h3> <hr/>
 <h4 align="left">Analyzing Motorcycle Part Sales</h4>
-<h5 align="left">Code: <a href="https://github.com/ozkantatligul/Portfolio-Projects/blob/main/Analyzing%20Motorcycle%20Part%20Sales"/>Analyzing Motorcycle Part Sales.sql</a></h5>
+<h5 align="left">Code: <a href="https://github.com/ozkantatligul/Portfolio-Projects/blob/main/Analyzing%20Motorcycle%20Part%20Sales.sql"/>Analyzing Motorcycle Part Sales.sql</a></h5>
 <h5 align="left">Description</h5>
 The board of directors has assigned me the responsibility of providing a comprehensive analysis of wholesale revenue across different product lines, examining variations on a monthly basis and across various warehouses. My task involves calculating net revenue for each product line and organizing the results by month and warehouse. To ensure a focused analysis, the results are filtered to include only 'Wholesale' orders.
 <h5 align="left">Skills</h5>
@@ -40,7 +40,8 @@ PostgreSQL <br/>
 <img width="593" alt="Data" src="https://github.com/ozkantatligul/ozkantatligul/assets/155071370/482bede7-6d50-499b-a177-3cf607a7950f">
 <img width="594" alt="Output" src="https://github.com/ozkantatligul/ozkantatligul/assets/155071370/f705a6a3-15bb-436f-9012-bea53ff2b96f">
 <h4 align="left">Hotel Operations Data Cleaning</h4>
-<h5 align="left">Code: <a href="https://github.com/ozkantatligul/Portfolio-Projects/blob/main/Hotel%20Operations%20Data%20Cleaning"/>Hotel Operations Data Cleaning.sql</a></h5>
+<h5 align="left">Code: <a href="https://github.com/ozkantatligul/Portfolio-Projects/blob/main/Hotel%20Operations%20Data%20Cleaning.sql"/>Hotel Operations Data Cleaning.sql
+</a></h5>
 <h5 align="left">Description</h5>
 The primary objective of this project was to cleanse the data before conducting a comprehensive analysis from various perspectives. The focus was on preparing the data for thorough examination by addressing any inconsistencies or inaccuracies, ensuring a solid foundation for subsequent SQL-based analyses. By employing data cleansing techniques, the project aimed to enhance the overall quality and reliability of the dataset, facilitating more accurate and insightful conclusions in the subsequent phases of the SQL project.
 <h5 align="left">Skills</h5>
