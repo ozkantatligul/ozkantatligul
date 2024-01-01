@@ -17,8 +17,8 @@ If you share a similar vision, please feel free to get in touch. I am eagerly lo
   <ul style="list-style-type:circle">
     <li>SQL</li>
     <ul style="list-style-type◾">
-      <li><a href="https://github.com/ozkantatligul/Portfolio-Projects/blob/main/Analyzing%20Motorcycle%20Part%20Sales"/>Analyzing Motorcycle Part Sales</a></li>
-      <li><a href="https://github.com/ozkantatligul/Portfolio-Projects/blob/main/Hotel%20Operations%20Data%20Cleaning"/>Hotel Operations Data Cleaning
+      <li><a href="https://github.com/ozkantatligul/Portfolio-Projects/blob/main/Analyzing%20Motorcycle%20Part%20Sales.sql"/>Analyzing Motorcycle Part Sales</a></li>
+      <li><a href="https://github.com/ozkantatligul/Portfolio-Projects/blob/main/Hotel%20Operations%20Data%20Cleaning.sql"/>Hotel Operations Data Cleaning
 </a></li>
     </ul>
   </ul>
@@ -34,6 +34,9 @@ If you share a similar vision, please feel free to get in touch. I am eagerly lo
 The board of directors has assigned me the responsibility of providing a comprehensive analysis of wholesale revenue across different product lines, examining variations on a monthly basis and across various warehouses. My task involves calculating net revenue for each product line and organizing the results by month and warehouse. To ensure a focused analysis, the results are filtered to include only 'Wholesale' orders.
 <h5 align="left">Skills</h5>
 CASE Statements, Aggregate Function, Type Casting, Rounding, Filtering Rows, Grouping Rows , Sorting Rows
+<h5 align="left">Technology</h5>
+PostgreSQL <br/>
+
 <img width="593" alt="Data" src="https://github.com/ozkantatligul/ozkantatligul/assets/155071370/482bede7-6d50-499b-a177-3cf607a7950f">
 <img width="594" alt="Output" src="https://github.com/ozkantatligul/ozkantatligul/assets/155071370/f705a6a3-15bb-436f-9012-bea53ff2b96f">
 <h4 align="left">Hotel Operations Data Cleaning</h4>
@@ -42,6 +45,9 @@ CASE Statements, Aggregate Function, Type Casting, Rounding, Filtering Rows, Gro
 The primary objective of this project was to cleanse the data before conducting a comprehensive analysis from various perspectives. The focus was on preparing the data for thorough examination by addressing any inconsistencies or inaccuracies, ensuring a solid foundation for subsequent SQL-based analyses. By employing data cleansing techniques, the project aimed to enhance the overall quality and reliability of the dataset, facilitating more accurate and insightful conclusions in the subsequent phases of the SQL project.
 <h5 align="left">Skills</h5>
 CASE Statements, COALESCE Function, Regular Expression Matching, Type Casting, Logical Operators, Arithmetic Operations, Column Aliasing
+<h5 align="left">Technology</h5>
+PostgreSQL <br/>
+
 <img width="791" alt="Task_1" src="https://github.com/ozkantatligul/ozkantatligul/assets/155071370/1a3d8069-0d42-4206-a91f-20842fb23766">
 <img width="788" alt="Task_1_Output" src="https://github.com/ozkantatligul/ozkantatligul/assets/155071370/41b8014a-2bf5-42ae-8f8d-7561639c5ab0">
 <h3 align="left" id="education">Education</h3> <hr/>
