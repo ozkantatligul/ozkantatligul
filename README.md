@@ -12,8 +12,18 @@ I am open to internship opportunities and eager to connect with professionals in
 If you share a similar vision, please feel free to get in touch. I am eagerly looking forward to the opportunity to work together!
 
 <p><a href= "https://github.com/ozkantatligul/ozkantatligul/files/13823268/Ozkan_Tatlgul_CV.1.pdf" download="OzkanTatligulCV">For My CV!</a></p>
-
-<p><a href= "https://github.com/ozkantatligul/Data-Analysis-Portfolio/blob/main/README.md">For My Data Analysis!</a></p>
+<h3 align="left">Portfolio Projects</h3><hr/>
+<ul>
+  <li>SQL</li>
+  <ul style="list-style-type◾">
+    <li><a href="https://github.com/ozkantatligul/Data-Analysis-Portfolio">Analyzing Motorcycle Part Sales</a></li>
+    <li><a href="https://github.com/ozkantatligul/Data-Analysis-Portfolio">Hotel Operations Data Cleaning</a></li>
+  </ul>
+  <li>Power BI</li>
+  <ul style="list-style-type◾">
+    <li><a href="https://github.com/ozkantatligul/Data-Analysis-Portfolio">Analyzing Customer Churn</a></li>
+  </ul>
+</ul>
 <h3 align="left" id="education">Education</h3> <hr/>
 Nicolaus Copernicus University :Master's Degree, Cognitive Science, 2023 - <br/>
 Adam Mickiewicz University: Bachelor's degree, Philosophy, 2022-2023. (Erasmus)<br/>
