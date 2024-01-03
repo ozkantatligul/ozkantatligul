@@ -16,12 +16,12 @@ If you share a similar vision, please feel free to get in touch. I am eagerly lo
 <ul>
   <li>SQL</li>
   <ul style="list-style-type◾">
-    <li><a href="https://github.com/ozkantatligul/Data-Analysis-Portfolio">Analyzing Motorcycle Part Sales</a></li>
-    <li><a href="https://github.com/ozkantatligul/Data-Analysis-Portfolio">Hotel Operations Data Cleaning</a></li>
+    <li><a href="https://github.com/ozkantatligul/Portfolio-Projects#sql1">Analyzing Motorcycle Part Sales</a></li>
+    <li><a href="https://github.com/ozkantatligul/Portfolio-Projects#sql2">Hotel Operations Data Cleaning</a></li>
   </ul>
   <li>Power BI</li>
   <ul style="list-style-type◾">
-    <li><a href="https://github.com/ozkantatligul/Data-Analysis-Portfolio">Analyzing Customer Churn</a></li>
+    <li><a href="https://github.com/ozkantatligul/Portfolio-Projects#powerbi1">Analyzing Customer Churn</a></li>
   </ul>
 </ul>
 <h3 align="left" id="education">Education</h3> <hr/>
