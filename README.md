@@ -27,7 +27,7 @@ If you share a similar vision, please feel free to get in touch. I am eagerly lo
 <h3 align="left" id="education">Education</h3> <hr/>
 <ul>
   <li>Nicolaus Copernicus University :Master's Degree, Cognitive Science, 2023 - </li>
-  <li>Adam Mickiewicz University: Bachelor's degree, Philosophy, 2022-2023. (Erasmus)</li>
+  <li>Adam Mickiewicz University: Bachelor's degree, Philosophy, 2021-2022. (Erasmus)</li>
   <li>
 Anadolu University: Bachelor's degree, Philosophy, 2018-2023. (GPA 3.44/4.00)</li>
 </ul>
