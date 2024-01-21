@@ -10,8 +10,7 @@ During my undergraduate studies, I acquired proficiency in SQL, Excel, PowerBI, 
 I am open to internship opportunities and eager to connect with professionals in the field to learn and gain valuable experience. With my education and acquired skills, I am a versatile individual ready to tackle challenges, quickly adapt, and contribute to the field of data analysis in a team-oriented manner.<br/>
 
 If you share a similar vision, please feel free to get in touch. I am eagerly looking forward to the opportunity to work together!
-
-<p><a href= "https://github.com/ozkantatligul/ozkantatligul/files/14001280/Ozkan_Tatl_gul_CV.pdf" download="OzkanTatligulCV">For My CV!</a></p>
+<p><a href= "https://github.com/ozkantatligul/ozkantatligul/files/14001296/Ozkan.Tatligul.CV.pdf" download="OzkanTatligulCV">For My CV!</a></p>
 <h3 align="left">Portfolio Projects</h3><hr/>
 <ul>
   <li>SQL</li>
