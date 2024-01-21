@@ -64,5 +64,5 @@ Anadolu University: Bachelor's degree, Philosophy, 2018-2023. (GPA 3.44/4.00)</l
 <h3 align="left" id="contact">Contact</h3> <hr/>
 <ul>
   <li>LinkedIn:<a href="https://www.linkedin.com/in/ozkantatligul/" alt="ozkantatligul" height="30" width="40" target="_blank"/>@ozkantatligul</a></li>
-  <li>Email:<a href="mailto:ozkantatligul@proton.me" alt="ozkantatligul" height="30" width="40" target="_blank"/ozkantatligul@proton.me</a></li>
+  <li>Email:<a href="mailto:ozkantatligul@proton.me" alt="ozkantatligul" height="30" width="40" target="_blank"/>ozkantatligul@proton.me</a></li>
 </ul>
