@@ -22,6 +22,9 @@ If you share a similar vision, please feel free to get in touch. I am eagerly lo
   <ul style="list-style-type◾">
     <li><a href="https://github.com/ozkantatligul/Portfolio-Projects#powerbi1">Analyzing Customer Churn</a></li>
   </ul>
+    <ul style="list-style-type◾">
+    <li><a href="https://github.com/ozkantatligul/Portfolio-Projects#powerbi2">HR Analytics</a></li>
+  </ul>
 </ul>
 <h3 align="left" id="education">Education</h3> <hr/>
 <ul>
